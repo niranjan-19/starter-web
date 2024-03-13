@@ -1,0 +1,446 @@
+    1  git clone [200~https://gitlab.com/precat-om39/cprogramming.git~
+    2  git clone https://gitlab.com/precat-om39/cprogramming.git
+    3  git pull
+    4  git pull
+    5  git pull
+    6  git pull
+    7  git clone https://gitlab.com/precat-om39/cprogramming.git
+    8  git pull
+    9  git pull
+   10  git pull
+   11  git pull
+   12  git pull
+   13  git pull
+   14  git pull
+   15  git pull
+   16  git pull
+   17  git pull
+   18  git pull
+   19  git pull
+   20  git pull
+   21  git pull
+   22  git pull
+   23  git pull
+   24  git pull
+   25  git pull
+   26  git pull
+   27  git pull
+   28  git pull
+   29  git pull
+   30  git pull
+   31  git pull
+   32  git clone [200~https://gitlab.com/precat-om39/datastructure.git~
+   33  [200~git config --global user.name "68606_Niranjan"
+   34  git config --global user.name "68606_Niranjan"
+   35  git clone https://gitlab.com/precat-om39/datastructure.git
+   36  git pull
+   37  git pull
+   38  git pull
+   39  git pull
+   40  git pull
+   41  git pull
+   42  git pull
+   43  git pull
+   44  git pull
+   45  git pull
+   46  git clone https://gitlab.com/precat-om39/aptitude.git
+   47  git pull
+   48  git pull
+   49  git pull
+   50  git pull
+   51  git pull
+   52  git pull
+   53  git config https://gitlab.com/precat-om39/objectorientedprogramming.git
+   54  git clone https://gitlab.com/precat-om39/objectorientedprogramming.git
+   55  git pull
+   56  git pull
+   57  git pull
+   58  git pull
+   59  git pull
+   60  git pull
+   61  git clone https://gitlab.com/precat-om39/objectorientedprogramming.git
+   62  git pull
+   63  git clone https://gitlab.com/precat-om39/objectorientedprogramming.git
+   64  git pull
+   65  git pull
+   66  git pull
+   67  git clone https://gitlab.com/precat-om39/operatingsystemconcepts.git
+   68  git pull
+   69  git pull
+   70  git pull
+   71  git pull
+   72  git pull https://gitlab.com/precat-om39/computerfundamentalsnetworking.git
+   73  git clone https://gitlab.com/precat-om39/computerfundamentalsnetworking.git
+   74  git clone https://github.com/sunbeam-dac-mar2023/hackathon2
+   75  git clone [200~ https://github.com/sunbeam-dac-mar2023/SDM.git~
+   76  git clone  https://github.com/sunbeam-dac-mar2023/SDM.git
+   77  git clone [200~https://github.com/sunbeam-dac-mar2023/SDM.git~
+   78  git clone https://github.com/sunbeam-dac-mar2023/SDM.git
+   79  git clone https://github.com/sunbeam-dac-mar2023/SDM.git
+   80  [200~git clone https://dac-mar2023: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@github.com/sunbeam-dac-mar2023/SDM.git
+   81  ~git clone https://dac-mar2023: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@github.com/sunbeam-dac-mar2023/SDM.git
+   82  git clone https://dac-mar2023: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@github.com/sunbeam-dac-mar2023/SDM.git
+   83  git clone https://dac-mar2023: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@github.com/sunbeam-dac-mar2023/SDM.git
+   84  git clone https://dac-mar2023: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@github.com/sunbeam-dac-mar2023/SDM.git
+   85  git pull https://dac-mar2023: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@github.com/sunbeam-dac-mar2023/SDM.git
+   86  git pull 
+   87  cd C:\Users\NIRANJAN\SDM
+   88  cd - C:\Users\NIRANJAN\SDM
+   89  cd -
+   90  cd ~
+   91  C:\Users\NIRANJAN\SDM
+   92  cd~C:\Users\NIRANJAN\SDM
+   93  cd SDM
+   94  git pull
+   95  cd SDM
+   96  git pull https://dac-mar2023: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@github.com/sunbeam-dac-mar2023/SDM.git
+   97  git clone https://github.com/YousefElshabrawy/Beaches.git
+   98  cd Beaches
+   99  npm install
+  100  npm run dev
+  101  git clone https://github.com/letnagao/travel-website.git
+  102  cd travel-website
+  103  npm install
+  104  npm start
+  105  npm start
+  106  npm start
+  107  mkdir advjava
+  108  cd advjava
+  109  git clone https://github.com/sunbeam-dac-mar2023/adv_java.git
+  110  cd advjava
+  111  git pull
+  112  git pull
+  113  git pull
+  114  cd advjava
+  115  cd adv_java
+  116  git pull
+  117  cd advjava
+  118  git pull
+  119  cd adv_java
+  120  git pull
+  121  cd advjava
+  122  cd adv_java
+  123  git pull
+  124  cd advjava
+  125  cd adv_java
+  126  git pull
+  127  git pull
+  128  git pull
+  129  cd SDM
+  130  git pull
+  131  cd advjava
+  132  cd adv_java
+  133  git pull
+  134  cd os
+  135  git clone  https://github.com/sunbeam-dac-mar2023/osc
+  136  git clone  https://github.com/sunbeam-dac-mar2023/osc
+  137  git clone  https://github.com/sunbeam-dac-mar2023/osc
+  138  git clone  https://github.com/sunbeam-dac-mar2023/osc
+  139  git clone  https://github.com/sunbeam-dac-mar2023/osc
+  140  git clone  https://github.com/sunbeam-dac-mar2023/osc
+  141  Niranjan@19
+  142  cd os
+  143  git clone  https://github.com/sunbeam-dac-mar2023/osc
+  144  cd advjava
+  145  cd adv_java
+  146  git pull
+  147  cd SDM
+  148  git pull
+  149  git clone git@github.com:niranjan-19/first-contributions.git
+  150  git clone https://github.com/niranjan-19/first-contributions.git
+  151  cd first-contributions
+  152  git switch -c branch1
+  153  git status
+  154  git add Contributors.md
+  155  git commit -m "Add niranjan-19 to Contributors list"
+  156  git push -u origin branch1
+  157  git push -u origin branch1
+  158  cd React
+  159  cd Desktop
+  160  cd React
+  161  git add .
+  162  git init -b main
+  163  git add .
+  164  git commit -m "React App States "
+  165  git remote add origin https://github.com/niranjan-19/CDAC-codes.git
+  166  git push origin main
+  167  git pull
+  168  git remote add origin https://github.com/niranjan-19/React.git
+  169  git branch -M main
+  170  git push -u origin main
+  171  git pull
+  172  git remote add origin https://github.com/niranjan-19/React.git
+  173  git branch -M main
+  174  git push -u origin main
+  175  git remote add origin1 https://github.com/niranjan-19/React.git
+  176  git push -u origin main
+  177  git pull'
+  178  git pull
+  179  git push -u origin1 main
+  180  git branch -M main
+  181   user 
+  182  cd ~
+  183  git config --list
+  184  git config --get remote.origin.url
+  185  git remote set-url origin https://niranjan-19
+  186  git remote set-url origin https://github.com/niranjan-19
+  187  exit
+  188  git
+  189  pwd
+  190  whoamo
+  191  whoami
+  192  git commands
+  193  git ==help
+  194  git --help
+  195  git --version
+  196  update
+  197  git --version
+  198  pwd
+  199  mkdir projects 
+  200  cd projects
+  201  pwd
+  202   git clonee https://github.com/niranjan-19/github-demo.git
+  203   git clonee https://github.com/niranjan-19/github-demo.git
+  204   git clone https://github.com/niranjan-19/github-demo.git
+  205  ls
+  206  cd github-demo/
+  207  cd github-demo/
+  208  git status
+  209  echo "Hello , This is Git demo " >> start.txt
+  210  ls
+  211  cat start.txt
+  212  git status 
+  213   git add start.txt
+  214  git status
+  215  git commit -m "First commit" 
+  216  git status
+  217  git push origin main
+  218  git status
+  219  it config --global list
+  220  git config --global list
+  221  git config --global 
+  222  git config --global --get
+  223  git config --global user.name
+  224  git config --global github.user
+  225  git config --global github.user
+  226  git config --global github.user niranjan-19
+  227  clear
+  228  whoami
+  229  github 
+  230  cd ..
+  231  cd ..
+  232  git config global
+  233  git config 
+  234  git config --global
+  235  git config --global credential.helper wincred
+  236  git config --global credential.helper 
+  237  git config --global user.name niranjan-19
+  238  git config --global user.name "niranjan-19"
+  239  git config --global user.email "niranjanbawkar19@gmail.com"
+  240  cd projects
+  241  git clone https://github.com/niranjan-19/github-demo.git
+  242  cd github-demo
+  243  git config  user.name "niranjan-19" --replace-all
+  244  ls
+  245  ls
+  246  ls
+  247  git status
+  248  git add start.txt
+  249  git status
+  250  git commit -m "Hello"
+  251  echo "This is second commit " start1.txt
+  252  ls
+  253  cat start1.txt
+  254  history
+  255  clear
+  256  echo "This is second file " >> start.txt
+  257  cat start.txt
+  258  git status
+  259  git add start.txt
+  260  git commit -m "Second commit"
+  261  git status
+  262  git push start.txt
+  263  histor
+  264  history'
+  265  history
+  266  git push origin main
+  267  git pull
+  268  git push origin main
+  269  ls
+  270  clear
+  271  echo "Welcome  , to Git demo " >> start.txt
+  272  ls
+  273  cat start.txt
+  274  cat start.txt
+  275  git status
+  276  cd ..
+  277  git clone https://github.com/niranjan-19/github-demo.git
+  278  cd github-demo
+  279  git status
+  280  git merge --abort
+  281  git status
+  282  history
+  283  ls
+  284  cat test.txt
+  285  git status
+  286  git pull
+  287  git add test.txt
+  288  git commit origin main
+  289  git commit -m "Second commit "
+  290  git status
+  291  git push origin main
+  292  git pull origin main
+  293  git push origin main
+  294  git push --help
+  295  git push --help
+  296  git push origin main
+  297  git push origin main
+  298  git pull origin main
+  299  cd ..
+  300  cd ..
+  301  clear
+  302  cd projects 
+  303  ls
+  304   rm -r .git
+  305   rm -r github-demo
+  306   rm -rf github-demo
+  307  ls
+  308  history
+  309  git clone https://github.com/niranjan-19/git-demo.git
+  310  cd git-demo
+  311  ls
+  312  echo "Hello this is fist file " >> start.txt
+  313  ls
+  314  cat start.txt
+  315  git status
+  316  git add start.txt
+  317  git status
+  318  git commit -m "First Commit"
+  319  git status
+  320  git pull origin main
+  321  git push origin main
+  322  echo "Second line added " >> start.txt
+  323  cat start.txt
+  324  git status
+  325  git add start.txt
+  326  git commit -m "Second commit " 
+  327  git status
+  328  git push origin main
+  329  git status
+  330  git add start.txt
+  331  git commit -m "Third commit " 
+  332  git push origin main
+  333  git config --global --list
+  334  cd ..
+  335  cd ..
+  336  notepad++
+  337  notepad++
+  338  notepad++
+  339  notepad++
+  340  notepad++
+  341  notepad++
+  342  cmd
+  343  path variables
+  344  pwd
+  345  notepad++ .bash_profile
+  346  exit
+  347  npp
+  348  cat ~/.gitconfig
+  349  git config --global core.editor "notepad++.exe -multiInst -nosession"
+  350  git config --global --list
+  351  git config --global -e
+  352  git config --global -e
+  353  exit 
+  354  ls
+  355  cd projects 
+  356  ls
+  357  cd git-demo
+  358  git status
+  359  cd ..
+  360  git init fresh-projects 
+  361  ls
+  362  cd fresh-projects
+  363  ls -al
+  364  git status
+  365  npp test.txt
+  366  ls
+  367  git status
+  368  git add test.txt
+  369  git status
+  370  git commit 
+  371  git status
+  372  cd ..
+  373  ls
+  374  rm -rf fresh-projects
+  375  ls
+  376  unzip ~/Downloads/html5-boilerplate-main
+  377  unzip ~/Downloads/html5-boilerplate-main.zip
+  378  ls
+  379  cd Test-project
+  380  ls
+  381  cd ..
+  382  cd Test-project
+  383  ls
+  384  ls -s
+  385  ls -a
+  386  git init
+  387  ls -al
+  388  git status
+  389  git add .
+  390  git status
+  391  git commit -m "First ommit of test-project -inline" 
+  392  git status
+  393  ls 
+  394  ls -al
+  395  rm -rf .git
+  396  ls -al
+  397  cd ..
+  398  ls
+  399  rm -rf Test-project
+  400  ls
+  401  git clone https://github.com/niranjan-19/starter-web.git
+  402  ls
+  403  cd starter-web
+  404  ls
+  405  ls -al
+  406  git status
+  407  cd ..
+  408  cd ..
+  409  exit
+  410  git status
+  411  pwd
+  412  cd projects
+  413  ls
+  414  cd starter-web
+  415  clear
+  416  ls
+  417  git status
+  418  npp
+  419  npp test.txt
+  420  cat test.txt
+  421  clear
+  422  git status
+  423  git add test.txt
+  424  git status
+  425  git restore --staged test.txt
+  426  git status
+  427  git add test.txt
+  428  git status
+  429  git commit
+  430  git commit
+  431  git status
+  432  git pull origin master 
+  433  git push origin master 
+  434  git status
+  435  git status
+  436  git status
+  437  npp test,txt
+  438  npp test,txt
+  439  npp test.txt
+  440  clear
+  441  git status
+  442  git commit -am "Adding more text"
+  443  git status
+  444  git ls-files
+  445  history
+  446  history >> commands.txt
