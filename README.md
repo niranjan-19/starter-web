@@ -10,8 +10,7 @@ This is to show merge tool application
 ## How To Contribute 
 
 
-Contribute with Open Heart and mind 
+
 
 SQL is a standard database language used for accessing and manipulating data in databases. It stands for Structured Query Language
 
- SQL can create, update, delete, and retrieve data in databases like MySQL, Oracle, PostgreSQL, etc.
