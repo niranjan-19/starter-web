@@ -9,6 +9,8 @@ This is to show merge tool application
 
 Adding a line for rebasing example 
 
+Changes in feature branch 
+
 ## How To Contribute 
 
 
