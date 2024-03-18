@@ -7,6 +7,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 This is to show merge tool application 
 
+Adding a line for rebasing example 
+
 ## How To Contribute 
 
 
