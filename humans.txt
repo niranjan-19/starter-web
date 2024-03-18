@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Niranjan Bawkar 
 # THANKS
 
     <name>
