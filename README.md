@@ -18,3 +18,4 @@ Second Time Editing
 Just a Demo 
 SQL is a standard database language used for accessing and manipulating data in databases. It stands for Structured Query Language
 
+Copyright Notice --2024 
